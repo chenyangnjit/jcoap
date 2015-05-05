@@ -1,5 +1,5 @@
 # jcoap
-Automatically exported from code.google.com/p/jcoap
+Automatically exported from (http://code.google.com/p/jcoap)
 #Introduction
 The Constrained Application Protocol (CoAP) is a specialized web transfer protocol for use with constrained networks and nodes for machine-to-machine applications. Currently, CoAP is an IETF draft (https://datatracker.ietf.org/doc/draft-ietf-core-coap/). As a result, jCoAP is an early-stage project that implements CoAP coming from the University of Rostock. It is compatible to Java SE and Android.
 
@@ -7,10 +7,10 @@ Feedback and contributions to this project are welcome either by contacting the 
 
 #Implemented Features:
 
-.Reliable and Unreliable Messaging
-.Piggy-backed and Separate Response
-.Simple to Use API
-.Proxy implementation (CoAP-CoAP, CoAP-HTTP, HTTP-CoAP)
+Reliable and Unreliable Messaging
+Piggy-backed and Separate Response
+Simple to Use API
+Proxy implementation (CoAP-CoAP, CoAP-HTTP, HTTP-CoAP)
 Quickstart: Checkout the source code. The source code contains the folder ws4d-jcoap and ws4d-jcoap-applications. Both folder contain an Eclipse project file. Use the Eclipse import function to import both projects. In ws4d-jcoap-applications a basic server and a basic client example can be found.
 
 #Announcing the CoAP/HTTP-Proxy for jCoAP
