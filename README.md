@@ -5,7 +5,7 @@ The Constrained Application Protocol (CoAP) is a specialized web transfer protoc
 
 Feedback and contributions to this project are welcome either by contacting the project owners or through the WS4D initiative (http://www.ws4d.org).
 
-#Implemented Features:
+Implemented Features:
 Reliable and Unreliable Messaging
 Piggy-backed and Separate Response
 Simple to Use API
